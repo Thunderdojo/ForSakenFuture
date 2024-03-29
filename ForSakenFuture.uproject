@@ -10,6 +10,181 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "LocationServicesBPLibrary",
+			"Enabled": false
+		},
+		{
+			"Name": "MobilePatchingUtils",
+			"Enabled": false
+		},
+		{
+			"Name": "MobileLauncherProfileWizard",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleImageUtils",
+			"Enabled": false
+		},
+		{
+			"Name": "IOSDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemIOS",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"IOS",
+				"TVOS"
+			]
+		},
+		{
+			"Name": "MacGraphicsSwitching",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemGooglePlay",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		},
+		{
+			"Name": "AndroidPermission",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidFileServer",
+			"Enabled": false
+		},
+		{
+			"Name": "GooglePAD",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesNull",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		},
+		{
+			"Name": "ExampleDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "DatasmithContent",
+			"Enabled": false
+		},
+		{
+			"Name": "SpeedTreeImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamController",
+			"Enabled": true
+		},
+		{
+			"Name": "AppleMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "AvfMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamSockets",
+			"Enabled": true
+		},
+		{
+			"Name": "GoogleCloudMessaging",
+			"Enabled": false
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosClothAsset",
+			"Enabled": true
+		},
+		{
+			"Name": "CLionSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "N10XSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "CodeLiteSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "KDevelopSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "RiderSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "XCodeSourceCodeAccess",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Mac"
+			]
+		},
+		{
+			"Name": "ChangelistReview",
+			"Enabled": false
+		},
+		{
+			"Name": "PerforceSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "PlasticSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "SubversionSourceControl",
+			"Enabled": false
 		}
 	]
 }
