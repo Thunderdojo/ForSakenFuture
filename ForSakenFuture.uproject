@@ -194,5 +194,10 @@
 			"Name": "AdvancedSteamSessions",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"LinuxArm64",
+		"Windows"
 	]
 }
