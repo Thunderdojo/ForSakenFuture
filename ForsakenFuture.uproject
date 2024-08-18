@@ -22,6 +22,14 @@
 		{
 			"Name": "ChaosClothAsset",
 			"Enabled": true
+		},
+		{
+			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationLocomotionLibrary",
+			"Enabled": true
 		}
 	]
 }
