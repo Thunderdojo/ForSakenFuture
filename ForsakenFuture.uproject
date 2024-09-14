@@ -236,6 +236,10 @@
 			"SupportedTargetPlatforms": [
 				"Mac"
 			]
+		},
+		{
+			"Name": "PCGBiomeCore",
+			"Enabled": true
 		}
 	]
 }
