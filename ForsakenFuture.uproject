@@ -171,10 +171,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OnlineSubsystemEOS",
-			"Enabled": true
-		},
-		{
 			"Name": "OnlineSubsystemIOS",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -199,10 +195,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SocketSubsystemEOS",
-			"Enabled": true
-		},
-		{
 			"Name": "SubversionSourceControl",
 			"Enabled": false
 		},
@@ -223,10 +215,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WebSocketMessaging",
-			"Enabled": true
-		},
-		{
 			"Name": "MobileLauncherProfileWizard",
 			"Enabled": false
 		},
@@ -239,6 +227,46 @@
 		},
 		{
 			"Name": "PCGBiomeCore",
+			"Enabled": true
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
+		},
+		{
+			"Name": "N10XSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "AutomationUtils",
+			"Enabled": false
+		},
+		{
+			"Name": "AvfMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "CmdLinkServer",
+			"Enabled": false
+		},
+		{
+			"Name": "DatasmithFBXImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "ExampleDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "FacialAnimation",
+			"Enabled": false
+		},
+		{
+			"Name": "MotionTrajectory",
 			"Enabled": true
 		}
 	]
